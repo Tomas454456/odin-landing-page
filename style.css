@@ -99,3 +99,19 @@ a
     border-style: solid;
     border-radius: 16px;
 }
+.quote-section
+{
+    padding: 90px;
+    background-color: #E5E7EB;
+    font-style: italic;
+    font-size: 20px;
+
+}
+.albert-eisten
+{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    padding: 32px 0 32px 250px;
+    text-align: end;
+}
