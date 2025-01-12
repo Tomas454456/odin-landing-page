@@ -73,3 +73,29 @@ a
     font-weight: bold;
     text-decoration: none;
 }
+.information
+{
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+.content-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+.content-box-container
+{
+    text-align: center;
+}
+.content-box
+{
+    width: 200px;
+    height: 200px;
+    border: #3882F6;
+    border-style: solid;
+    border-radius: 16px;
+}
